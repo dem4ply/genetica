@@ -213,9 +213,13 @@ señalizacion
 ============
 
 señalizacion de peligro biologico
+
 ANSI Z535 / ISO 3864 / ISO 7010
+
 ISO W009
+
 Unicode: U 2623 ( ☣ ).
+
 
 .. image:: e.2/biohazzar_ISO_7010_W009.svg.png
   :width: 200

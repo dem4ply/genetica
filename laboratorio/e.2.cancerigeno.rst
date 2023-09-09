@@ -121,7 +121,9 @@ señalizacion
 ============
 
 señalizacion de cancerigeno y mutageno
+
 ANSI Z535 / ISO 3864 / ISO 7010
+
 ISO W071
 
 .. image:: e.2/health_hazard_ISO_7010_W071.svg.png
