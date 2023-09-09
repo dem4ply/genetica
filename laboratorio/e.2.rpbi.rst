@@ -208,6 +208,30 @@ Los RPBI que hayan sido tratados podrán disponerse en los camiones recolectores
 de basura común, mientras que los RPBI sin tratamiento deberán enviarse a
 empresas recolectoras autorizadas.
 
+**************************
+peligros al medio ambiente
+**************************
+
+Algunos de los peligros ambientales asociados con los RPBI
+incluyen:
+
+1. Contaminación del agua y el suelo: Los RPBI pueden contaminar el agua y
+el suelo si se disponen incorrectamente. Si los residuos son arrojados en
+vertederos no controlados o si las instalaciones de tratamiento de RPBI no
+cumplen con las normas adecuadas, los patógenos pueden liberarse al entorno,
+lo que aumenta el riesgo de infecciones en la comunidad y la contaminación
+ambiental.
+
+2. Riesgo para la fauna: Los animales, especialmente los carroñeros, pueden
+entrar en contacto con RPBI si los desechos se manejan inadecuadamente. Esto
+puede llevar a la propagación de enfermedades a la vida silvestre y aumentar el
+riesgo de alteraciones en los ecosistemas.
+
+3. Dispersión de patógenos resistentes a los antibióticos: La mala gestión de
+los RPBI puede contribuir a la diseminación de patógenos resistentes a los
+antibióticos en el medio ambiente. Esto puede tener implicaciones graves para
+la salud pública, ya que dificulta el tratamiento de enfermedades infecciosas.
+
 ============
 señalizacion
 ============
