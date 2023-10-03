@@ -1,0 +1,25 @@
+========
+material
+========
+
+***********
+volumetrico
+***********
+
+* medicion apoimada
+* realizar soluciones
+* coneneter liquidos
+* disolver solutos
+* llevar a cabo reacciones
+
+********
+graduado
+********
+
+* medicion exacta columen ( mL o L )
+
+**************
+no volumetrico
+**************
+
+no calibrado

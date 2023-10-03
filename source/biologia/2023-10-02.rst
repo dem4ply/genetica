@@ -1,0 +1,50 @@
+===========
+biomembrana
+===========
+
+tiene 2 capas de fosbolipidos separado por algo
+
+las procariotas tiene una sola membrana que las rodea, no tiene
+comportamientos internos en la membrana
+
+espesor de 6nm a 10nm
+
+*******************
+sistema membranales
+*******************
+
+* nucleo
+* mitocondrias
+* cloroplastos
+* vacuolas
+* reticulo endoplastico
+* aparato de golgi
+
+*********
+funciones
+*********
+
+* aisla el citoplasma celular del medio externo
+* regula el intercambio de sustancias esenciales entre el citoplasma y el medio externo
+* se cominuca con otras celulas
+* elimna las sustancias toxicas para las celula
+* define la extension de la celula y establece sus limites
+
+*******************
+membrana plasmatica
+*******************
+
+contenido:
+
+* proteinas 55%
+* fosfolipidos 25%
+* colesterol 13%
+* otros lipidos 4%
+* carbohidratos 3%
+
+
+=====
+tarea
+=====
+
+composicion de la membrana de bacterias y la tincion de gram
