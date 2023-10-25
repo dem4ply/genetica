@@ -21,9 +21,12 @@ de trabajo
 breve
 =====
 
+extrae vapores usando un extractor junto a un sistema de filtracion o
+los expulsa al exterior, tiene forma de caja con una apertura y una mesa
+trabajo en el interior
+
 es una caja con una apertura y una mesa de trabajo en su interior
 extrae vapores usando un extractor junto a sistema de filtracion
-para posteriormente
 
 .. image:: catalogo_equipo_lab/campana_extracion_1.webp
   :width: 200
@@ -45,7 +48,7 @@ almacenados.
 breve
 =====
 
-mantiene productos quimicos y muestras a termperaturas controladas
+mantiene productos quimicos y muestras a temperaturas controladas
 ayuda a preserva la integridad de los materiales
 
 .. image:: catalogo_equipo_lab/refrigerador_1.jpg

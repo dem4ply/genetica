@@ -11,6 +11,11 @@ Welcome to genetica's documentation!
    :caption: Contents:
 
    laboratorio/index
+   algebra/index
+   quimica/index
+   biologia/index
+   fisica/index
+   desarrollo/index
 
 
 

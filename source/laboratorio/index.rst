@@ -8,6 +8,7 @@ laboratorio
 
    e.1
    e.2.cancerigeno
-   e.3.rpbi
+   e.2.rpbi
    catalogo_materiales_lab
    2023-09-29
+   catalogo_equipo_lab

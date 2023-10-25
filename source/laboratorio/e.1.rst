@@ -56,7 +56,4 @@ contrucion
 nivel 4
 =======
 
-========= =======================
-Categoria Niveles de bioseguridad
-========= =======================
-Aislamiento del laboratorio No No Sí Sí
+pass

@@ -45,9 +45,9 @@ procariota
 * tiene cilojo flagelos
 * genoma es mas pequeño
 
-======
+******
 celula
-======
+******
 
 * unidad basia en biologia
 * es dinamica

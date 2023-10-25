@@ -34,12 +34,12 @@ descubriiento de vitaminas
 		proteínas, grasas, carbohidratos, y sales
 		murienron las que alimento con leche normal se desarrollaron normalemnte
 		asumiendo que la leche contenia elementos esenciales para la vida
-		pero rechazada por sus conteporaneos
-			la diferencia es que el uso azucar de mesa y los demas
-			azucar de la leche que un contine vitamina B
+		pero rechazada por sus conteporaneos.
+		la diferencia es que el uso azucar de mesa y los demas
+		azucar de la leche que un contine vitamina B
 	* 1884 Takaki Kanehiro observo beriberi que era comun entre los rangos bajos
-	  de la marina que solo comian arroz blanco pero no los oficiales que tenian
-	  una mejor dieta
+		de la marina que solo comian arroz blanco pero no los oficiales que tenian
+		una mejor dieta
 		experimento con 2 barcos uno solo comia arroz y otro
 		con una dieta de carne, pescado, cebada, arroz y frijoles
 		en el barco de arroz tuvo 161 casos de beriberi y 25 muertes

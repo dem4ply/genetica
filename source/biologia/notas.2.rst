@@ -27,17 +27,16 @@ llamado enlaze peptidico
 primaria es la secuencia lineal de los aminoacidos
 secundaria - formas simples
 terciaria - globlares
-cuaternaria - interacion de proteinas
-	hemoglabina hierro con 4 proteinas
-	clorofila - Magnecio con 4 proteinas
 
+cuaternaria - interacion de proteinas
+	* hemoglabina hierro con 4 proteinas
+	* clorofila - Magnecio con 4 proteinas
 
 lipidos
 	glicerol + aciudo graso
 
 carboidratos
 	pass
-
 
 ====
 leer

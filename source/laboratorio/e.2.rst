@@ -103,9 +103,9 @@ ejemplos
 		Siempre que hayan estado en contacto con humanos
 		o animales o sus muestras biológicas durante
 		el diagnóstico y tratamiento.
-	Excluye: todo material de vidrio roto utilizado en el laboratorio,
-	el cual deberá ser desinfectado o esterilizado antes de ser dispuesto
-	como residuo de manejo especial.
+	* Excluye: todo material de vidrio roto utilizado en el laboratorio,
+		el cual deberá ser desinfectado o esterilizado antes de ser dispuesto
+		como residuo de manejo especial.
 
 ****
 usos
@@ -216,5 +216,3 @@ bibliografia
 NOM-087-SEMARNAT-SSA1-2002
 
 https://www.pediatria.gob.mx/archivos/burbuja/10_Guia_manejo_RPBI.pdf
-
-
