@@ -1,0 +1,43 @@
+************
+cloroplastos
+************
+
+contienen el pigmento verde llamado clorofila la cual esta en los tilacoides
+
+tienen tambien carotenoides ( pigmentos anaranjados ) y xantofilas ( pigmentos amarillos )
+
+genera ATP y NADH durante ciclos de horas de luz, que usa para tranformar
+CO2 en azucares en el interior de los cloroplastos
+
+los azucares se mueven al citosol para producir ATP y otros materiales
+que nesesita la planta
+
+captura la energia con el clorofila y se usa para generar azucar
+
+reaccion de fotosintesis
+========================
+
+6 CO2 + 6 H2O --> enzimas clorofila --> C6 G12 O5
+
+fase luminosa
+=============
+
+el agua se fotodescompone liberando oxigeno O2 y se sintetiza ATP NADPH2
+
+fase oscura
+===========
+
+se produce la fijacion de CO2 y es trasformado en carbohidratos usando el ATP
+y el NADPH2 producidos en los tilacoides esta ruta metabolica se conoce como
+ciclo de calvin
+
+la fijacion del CO2 se realiza por la enzima RUBISCO
+
+3CO2 + 6NADPH + 9 ATP --> fliceraldehido 3-p + 6NADP+ + 9ADP + 8Pi
+
+por cada 3 moleculas de CO2 se incorporan hidratos de carbono, existe una
+ganancia neta de una molecula de fliceraldehido-3-p
+
+para un total de 6 moleculas de CO2
+
+6CO2 + 12NADPH + 18 ATP --> C6H12O8P + 12NADP+ + 18ADP + 16 Pi
