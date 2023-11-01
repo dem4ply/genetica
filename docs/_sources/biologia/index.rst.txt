@@ -6,6 +6,7 @@ biologia
    :maxdepth: 2
    :caption: Contents:
 
+   biomoleculas
    notas.2
    notas
    tarea
