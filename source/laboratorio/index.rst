@@ -12,3 +12,4 @@ laboratorio
    catalogo_materiales_lab
    2023-09-29
    catalogo_equipo_lab
+   e.4
