@@ -26,7 +26,7 @@ extensions = [
     #'sphinx.ext.mathbase',
     #'sphinxcontrib.jsmath',
     # 'sphinxcontrib.httpdomain',
-    # 'sphinxcontrib.plantuml',
+    'sphinxcontrib.plantuml',
 ]
 
 templates_path = ['_templates']
@@ -50,6 +50,7 @@ latex_elements = {
 ''',
     'preamble': r'''
 \usepackage[titles]{tocloft}
+\usepackage{chemfig}
 \cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
 \setlength{\cftchapnumwidth}{0.75cm}
 \setlength{\cftsecindent}{\cftchapnumwidth}
