@@ -99,3 +99,183 @@ en la muestra usnado el objetivo de 100x se puede distinguir los cloroplastos
 de manera individual pero sin poder observar su estructura interna
 
 .. image:: p3/cloroplastos_100x.png
+
+
+platano
+=======
+
+Objetivo: observar aminoplastos en celulas vegetales de un platano
+
+muestra:
+	*Musa paradisiaca L.*
+
+metodologia:
+
+	1. se obtiene la muestra de un platano y se coloca en un porta objetos
+	2. se agrega yodo lugol a la muestra
+	3. se colaca el cubre objetos
+	4. se hace la observacion de la muestra con el microscopio con 40x de aumento
+
+muestras
+--------
+
+40x
+^^^
+
+.. image:: p3/platano.jpeg
+	:width: 200
+
+observaciones
+-------------
+
+en la muestra usando el objetivo de 40x se puede observar los aminoplastos
+
+.. image:: p3/platano.jpeg
+
+
+manzana
+=======
+
+Objetivo: observar las celas de una manzana
+
+muestra:
+	*Malus domestica*
+
+metodologia:
+
+	1. se obtiene la muestra de un manzana en un porta objetos
+	2. se agrega agua destilada con azul de metileno
+	3. se colaca el cubre objetos
+	4. se hace la observacion de la muestra con el microscopio con 40x de aumento
+
+muestras
+--------
+
+40x
+^^^
+
+.. image:: other/48.jpeg
+	:width: 200
+.. image:: unsort_img/IMG20231215124117.jpg
+	:width: 200
+.. image:: unsort_img/IMG20231215124119.jpg
+	:width: 200
+.. image:: unsort_img/IMG20231215124143.jpg
+	:width: 200
+
+observaciones
+-------------
+
+en la muestra usando el objetivo de 40x se pueden observar algunos organelos
+de la celula
+
+.. image:: other/48.jpeg
+
+
+sangre
+======
+
+Objetivo: observar una muestra de sangre con solucion hipotonica
+
+muestra:
+	sangre de *Homo sapiens sapiens*
+
+metodologia:
+
+	1. se obtine una muestra de sangre usando un alfiler esterilizado
+	2. se coloca la muestra en un porta objetos
+	3. se agrega la solucion hipotonica
+	4. se coloca el cubreobjetos
+	4. se hace la observacion de la muestra con el microscopio con 40x de aumento
+
+muestras
+--------
+
+40x
+^^^
+
+.. image:: otros_2/sangre_1.jpeg
+	:width: 200
+
+.. image:: otros_2/sangre_2.jpeg
+	:width: 200
+
+observaciones
+-------------
+
+en la muestra usando el objetivo de 40x como las celulas se inflaman a causa
+del ambiente hipotonico
+
+.. image:: otros_2/sangre_2.jpeg
+
+manzana
+=======
+
+Objetivo: observar las celas de una manzana
+
+muestra:
+	*Malus domestica*
+
+metodologia:
+
+	1. se obtiene la muestra de un manzana en un porta objetos
+	2. se agrega agua destilada con azul de metileno
+	3. se colaca el cubre objetos
+	4. se hace la observacion de la muestra con el microscopio con 40x de aumento
+
+muestras
+--------
+
+40x
+^^^
+
+.. image:: other/48.jpeg
+	:width: 200
+.. image:: unsort_img/IMG20231215124117.jpg
+	:width: 200
+.. image:: unsort_img/IMG20231215124119.jpg
+	:width: 200
+.. image:: unsort_img/IMG20231215124143.jpg
+	:width: 200
+
+observaciones
+-------------
+
+en la muestra usando el objetivo de 40x se pueden observar algunos organelos
+de la celula
+
+.. image:: other/48.jpeg
+
+
+hipertonica
+===========
+
+Objetivo: observar una muestra de una planta en solucion hipertonica
+
+metodologia:
+
+	1. se obtiene una muestra de una planta con un corte fino
+	2. se coloca la muestra en un porta objetos
+	3. se agrega la solucion hipertonica
+	4. se coloca el cubreobjetos
+	4. se hace la observacion de la muestra con el microscopio con 40x de aumento
+
+muestras
+--------
+
+40x
+^^^
+
+.. image:: other/3.jpeg
+	:width: 200
+
+.. image:: other/4.jpeg
+	:width: 200
+
+observaciones
+-------------
+
+en la muestra usando el objetivo de 40x se puede observar el movimiento de la
+vacuola a causa del marchitamiento de la celula por la perdida de presion de turgencia
+
+.. image:: other/4.jpeg
