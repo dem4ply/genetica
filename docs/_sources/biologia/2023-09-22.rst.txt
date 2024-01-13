@@ -12,8 +12,6 @@ funciones
 * regulacion del crecimineto celular
 * filtro a la difusion
 
-
-
 ==============
 proteoglicanos
 ==============

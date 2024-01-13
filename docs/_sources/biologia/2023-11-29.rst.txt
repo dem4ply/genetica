@@ -1,0 +1,17 @@
+**********************************
+transporte a travez de la membrana
+**********************************
+
+.. uml::
+
+	[transporte a traves de membrana] as t1
+
+	t1 --> [transporte pasivo]
+	t1 --> [transporte activo]
+
+	[transporte pasivo] --> [difusion facilitada]
+	[transporte pasivo] --> [osmosis]
+	[transporte pasivo] --> [difusion simple]
+
+	[transporte activo] --> [primario: bomba de sodio y potasio]
+	[transporte activo] --> [secundario o contrasporte intercambiador Ca-Na']

@@ -7,3 +7,4 @@ algebra
    :caption: Contents:
 
    productos_notables
+   matrice
