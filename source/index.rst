@@ -10,14 +10,8 @@ Welcome to genetica's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   laboratorio/index
-   algebra/index
-   quimica/index
-   biologia/index
-   fisica/index
-   desarrollo/index
-
-
+   sem_1/index
+   sem_2/index
 
 Indices and tables
 ==================

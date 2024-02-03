@@ -1,0 +1,21 @@
+**********************************
+ejercicios de numeros de oxidacion
+**********************************
+
+* LiBr
+	Li = 1
+	Br = -1
+* AgF
+	Ag = +1
+	F = -1
+* SnS :sub:`2`
+	Sn = 4
+	S = -2
+* CrCi :sub:`3`
+	Cr = 3
+	Ci = 1
+* KIO :sub:`3`
+	K = 1
+	I = 5
+	O = -2
+* CuSO :sub:`4`

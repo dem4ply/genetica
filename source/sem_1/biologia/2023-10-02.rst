@@ -1,0 +1,82 @@
+===========
+biomembrana
+===========
+
+tiene 2 capas de fosbolipidos separado por algo
+
+las procariotas tiene una sola membrana que las rodea, no tiene
+comportamientos internos en la membrana
+
+espesor de 6nm a 10nm
+
+*******************
+sistema membranales
+*******************
+
+* nucleo
+* mitocondrias
+* cloroplastos
+* vacuolas
+* reticulo endoplastico
+* aparato de golgi
+
+*********
+funciones
+*********
+
+* aisla el citoplasma celular del medio externo
+* regula el intercambio de sustancias esenciales entre el citoplasma y el medio externo
+* se cominuca con otras celulas
+* elimna las sustancias toxicas para las celula
+* define la extension de la celula y establece sus limites
+
+*******************
+membrana plasmatica
+*******************
+
+contenido:
+
+* proteinas 55%
+* fosfolipidos 25%
+* colesterol 13%
+* otros lipidos 4%
+* carbohidratos 3%
+
+
+*****
+tarea
+*****
+
+composicion de la membrana de bacterias y la tincion de gram
+
+
+composicion de la membrana debacterias
+======================================
+
+La envoltura celular bacteriana comprende la membrana citoplasmática y la pared
+celular más una membrana externa, en el caso de que esta exista. La mayoría
+de las envolturas celulares bacterianas caen en dos categorías importantes:
+Gram-positiva y Gram-negativa. Estas se distinguen por su reacción a la tinción
+de Gram.
+
+Como en otros organismos, la pared celular bacteriana proporciona integridad
+estructural a la célula. En los procariontes, la función primaria de la
+pared celular es proteger la célula contra la presión interna causada por
+las concentraciones mucho más altas de proteínas y de otras moléculas
+dentro de la célula que en el medio exterior. La pared celular bacteriana
+se diferencia de la del resto de los organismos por la presencia de
+peptidoglicano (heteropolímero alternante de poli-N-acetilglucosamina y ácido
+N-acetilmurámico) y está situada inmediatamente a continuación de la membrana
+citoplásmica.
+
+tincion de gram
+===============
+
+La tinción de Gram o coloración de Gram es un tipo de tinción diferencial
+empleado en bacteriología para la visualización de bacterias, sobre todo
+en muestras clínicas. Debe su nombre al bacteriólogo danés Christian Gram
+(1853-1938), que desarrolló la técnica en 1884.1 Se utiliza tanto para poder
+referirse a la morfología celular bacteriana como para poder realizar una
+primera aproximación a la diferenciación bacteriana, considerándose bacterias
+grampositivas a las que se visualizan de color morado y bacterias gramnegativas
+a las que se visualizan de color rosado y rojo.

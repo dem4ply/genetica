@@ -1,0 +1,9 @@
+********
+entiopia
+********
+
+calor que desprende cuando se quema 266g de fosforo blanco ( P4 ) en aire
+
+P4(S) + 5O2 -> P4O10  delta H = 3013kj
+
+266g P4 * ( ( 1 mol P4 ) / 123.9g P4 ) ( 3013 kj / 1 mol P4 ) = 6470 kj

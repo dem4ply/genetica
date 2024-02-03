@@ -1,0 +1,144 @@
+ejercicio configuracion electronica
+===================================
+
+part 1
+------
+
+a) z = 3		3e-
+	1s^2 2s^1
+
+b) z = 8		8e-
+	1s^2 2s^2 2p^4
+
+c) z = 16		16e
+	azufre configuracion con kernel [Ne] 3s^2 3p^4
+	1s^2 2s^2 2p^6 3s^2 3p^4
+
+   2+
+d) z = 20		20e^+ = 18e
+	calcio configuracion con kernel [Ne] 3s^2 3p^6
+	1s^2 2s^2 2p^6 3s^2 3p^6
+
+   5-
+e) z = 25		25e^+ = 30e
+	manganecio configuracion con kernel [Ar] 4s^2 3d^10
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10
+
+part 2
+------
+
+1. z = 28
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^8
+	Níquel configuracion con kernel [Ar] 4s^2 3d^8
+	4s [ + - ]
+	3d { [ + - ] [ + - ] [ + - ] [ + ] [ + ] }
+
+	n = 3
+	l = 2
+	m = 0
+	s = -1/2
+
+2. z = 40
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^2
+	Circonio configuracion con kernel [Kr] 5s^2 4d^2
+	5s [ + - ]
+	4d { [ + ] [ + ] [ ] [ ] [ ] }
+
+	n = 4
+	l = 2
+	m = -1
+	s = +1/2
+
+3. z = 53
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^5
+	Yodo configuracion con kernel [Kr] 5s^2 4d^10 5p^5
+	5s [ + - ]
+	4d { [ + - ] [ + - ] [ + - ] [ + - ] [ + - ] }
+	5p { [ + - ] [ + - ] [ + ] }
+
+	n = 5
+	l = 1
+	m = 0
+	s = -1/2
+
+4. z = 61
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^5
+	Prometio configuracion con kernel [Xe] 6s^2 4f^5
+	6s [ + - ]
+	4f { [ + ] [ + ] [ + ] [ + ] [ + ] [] [] }
+
+	n = 4
+	l = 3
+	m = 1
+	s = +1/2
+
+5. z = 45
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^7
+	Rodio configuracion con kernel [Kr] 5s^2 4d^7
+
+	5s [ + - ]
+	4d { [ + - ] [ + - ] [ + ] [ + ] [ + ] }
+
+	n = 4
+	l = 2
+	m = -1
+	s = -1/2
+
+6. z = 67
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^10
+	Holmio configuracion con kernel [Xe] 6s^2 4f^10
+
+	6s [ + - ]
+	4f { [ + - ] [ + - ] [ + - ] [ + ] [ + ] [ + ] [ + ] }
+
+	n = 4
+	l = 3
+	m = -1
+	s = -1/2
+
+7. z = 57
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2
+	Lantano configuracion con kernel [Xe] 6s^2
+
+	6s [ + - ]
+
+	n = 6
+	l = 0
+	m = 0
+	s = -1/2
+
+8. z = 35
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^5
+	Bromo configuracion con kernel [Ar] 4s^2 3d^10 4p^5
+	4s [ + - ]
+	3d { [ + - ] [ + - ] [ + - ] [ + - ] [ + - ] }
+	4p { [ + - ] [ + - ] [ + ] }
+
+	n = 4
+	l = 1
+	m = 0
+	s = -1/2
+
+9. z = 50
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^2
+	estanno configuracion con kernel [Kr] 5s^2 4d^10 5p^2
+	5s [ + - ]
+	4d { [ + - ] [ + - ] [ + - ] [ + - ] [ + - ] }
+	5p { [ + ] [ + ] [ ] }
+
+	n = 5
+	l = 1
+	m = 0
+	s = +1/2
+
+10. z = 66
+	1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^9
+	Disprosio configuracion con kernel [Xe] 6s^2 4f^9
+
+	6s [ + - ]
+	4f { [ + - ] [ + - ] [ + ] [ + ] [ + ] [ + ] [ + ] }
+
+	n = 4
+	l = 3
+	m = -2
+	s = -1/2

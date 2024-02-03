@@ -1,0 +1,33 @@
+cosa
+====
+
+	\chemfig{A=B}
+
+.. math::
+	c_3H_8O
+
+CH3 CH2 CH2-OH
+
+CH3-CH-CH3
+     |
+     OH
+
+
+   CH3
+     \
+      CH2
+     /
+Br-CH
+     \
+      CH3
+
+   CH2     CH2
+  /   \   /   \
+Br     CH2     CH3
+
+
+    CH3
+    |
+CH3-C-Br
+    |
+    CH3

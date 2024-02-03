@@ -1,0 +1,35 @@
+comutativa sum, orden de sumas no afecta
+asociatiava sum los terminos y orden de la suma no afectaa
+mult conmutativa: el orden de los factores no afecta
+asociativa mul: los factores pueden agreuparse en cualquier orden
+
+distributiva de la multiplicacion sobre la suma
+a( b + c ) = ab + ac
+
+
+sum asociativa		a+b+c = a + ( b + c ) = ( a + b ) + c
+mul asociativa		abc = a( bc ) = ( ab )c
+mul comutativa		2 * 5 = 5 * 2 = 10
+sum comutativa		5 + 3 = 3 + 5 = 8
+sum mul distributiva		a( b + c ) = ab + ac
+
+divicion de exponentes
+
+( x ** n) / ( x ** m ) == x ** ( n - m )
+
+if n > m
+	x ** (n-m) 
+if n == m
+	1 
+if n < m
+	1 / ( x**(m-n) ) 
+
+exponente negativo
+
+x ** -m == 1 / ( x ** m )
+
+( a / b ) ** m == ( a ** m ) / ( b ** m )
+( a / b ) ** -n
+	== ( a ** -n ) / ( b ** -n )
+	== ( b ** n ) / ( a ** n )
+	== ( b / a ) ** n
