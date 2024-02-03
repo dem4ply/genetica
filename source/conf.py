@@ -44,18 +44,40 @@ html_static_path = ['_static']
 # inside conf.py
 latex_engine = 'xelatex'
 latex_elements = {
+    # The paper size ('letterpaper' or 'a4paper').
+    'papersize': 'a4paper',
+    # The font size ('10pt', '11pt' or '12pt').
+    'pointsize': '12pt',
     'fontpkg': r'''
 \setmainfont{DejaVu Serif}
 \setsansfont{DejaVu Sans}
 \setmonofont{DejaVu Sans Mono}
 ''',
     'preamble': r'''
+\setlength\parindent{1zw}
+\renewcommand{\baselinestretch}{0.8}
+
 \usepackage[titles]{tocloft}
+\usepackage[version=4]{mhchem}
+\usepackage{siunitx}
 \usepackage{chemfig}
-\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
-\setlength{\cftchapnumwidth}{0.75cm}
-\setlength{\cftsecindent}{\cftchapnumwidth}
-\setlength{\cftsecnumwidth}{1.25cm}
+
+\makeatletter
+\renewcommand{\maketitle}{
+\begin{center}
+    {\Large \@title} \par
+\end{center}
+\begin{flushright}
+    \@date \hspace{3zw} \@author \par
+\end{flushright}
+}
+
+\@addtoreset{equation}{section} \def\theequation{\thesection.\arabic{equation}}
+
+\makeatother
+
+\pagestyle{plain}
+\thispagestyle{plain}
 ''',
     'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
     'printindex': r'\footnotesize\raggedright\printindex',

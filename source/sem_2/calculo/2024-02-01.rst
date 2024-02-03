@@ -1,0 +1,87 @@
+********************************
+dominio de funciones matematicas
+********************************
+
+funciones polinomicas 
+======================
+
+el dominio de este tipo de funciones es :math: `\mathbb{R}` ( numeros reales )
+
+.. math::
+
+	f( x ) = 4x + 2 \rightarrow lineal \rightarrow DOM_f
+	= \mathbb{R} -\infty < x < \infty; ( -\infty, \infty )
+
+	f( x ) = 2x^2 + 3x + 1 \rightarrow cuadratica \rightarrow DOM_f
+	= \mathbb{R}; -\infty < x < \infty; ( -\infty, \infty )
+
+	f( x ) = x^3 + 3 \rightarrow cubica \rightarrow DOM_f
+	= \mathbb{R}; -\infty < x < \infty; ( -\infty, \infty )
+
+funciones racionales
+====================
+
+igualar a cero el denominador resolver la ecuacion resultante y el dominio
+de la funcion esta dado por :math: `\mathbb{R}` excepto las soluciones de la
+ecuacion
+
+.. math::
+
+	f( x ) = \frac{ 3x^4 - 2x^2 - 1 } { x^2 - 5x + 6 }
+	\rightarrow DOM_f = \mathbb{R} - \{ 2, 3 \}; 
+
+resolver la ecuacion del denominador para encontrar los valores de x que al
+sustituirlos den como resultado que la ecuacion es igual a 0
+
+factorizacion
+-------------
+
+.. math::
+	x^2 - 5x + 6 = 0
+
+	( x - 3 )( x - 2 ) = 0
+
+	( x - 3 ) = 0
+
+	x = 3
+
+	( x - 2 ) = 0
+
+	x = 2
+
+formula general
+---------------
+
+.. math::
+	x = \frac{ -b \pm \sqrt{ b^2 -4ac } } { 2a }
+
+ejercicio
+=========
+
+.. math::
+	\frac{ 1 } { x^2 - x }
+	\rightarrow Dom_f = \mathbb(R) - \{ 0, 1 \}
+
+	{ x^2 - x } = 0 \rightarrow x = \{ 0, 1 \}
+
+.. math::
+	g( x ) = \frac{ x^2 + 5 } { x - 1 }
+	\rightarrow Dom_f = \mathbb(R) - \{ 1 \}
+
+	{ x - 1 } = 0 \rightarrow x = \{ 1 \}
+
+snippet
+-------
+
+.. code-block:: python
+
+	import math 
+	a = 1
+	b = -1
+	c = 0
+
+	sqrt = math.sqrt( b * b - 4 * a * c )
+
+	print( ( -b + sqrt ) / ( 2 * a ) )
+	print( ( -b - sqrt ) / ( 2 * a ) )
+
