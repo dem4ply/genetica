@@ -27,6 +27,7 @@ extensions = [
     #'sphinxcontrib.jsmath',
     # 'sphinxcontrib.httpdomain',
     'sphinxcontrib.plantuml',
+    'rst2pdf.pdfbuilder',
 ]
 
 templates_path = ['_templates']
@@ -60,3 +61,5 @@ latex_elements = {
     'printindex': r'\footnotesize\raggedright\printindex',
 }
 latex_show_urls = 'footnote'
+
+pdf_documents = [('index', u'rst2pdf', u'Sample rst2pdf doc', u'Your Name'),]
