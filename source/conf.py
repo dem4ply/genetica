@@ -43,6 +43,8 @@ html_static_path = ['_static']
 
 # inside conf.py
 latex_engine = 'xelatex'
+imgmath_latex_preamble=r'\usepackage{mhchem}'
+imgmath_image_format='svg'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     'papersize': 'a4paper',
