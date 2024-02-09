@@ -1,0 +1,34 @@
+**********************************
+funciones radicales de orden impar
+**********************************
+
+el dominio de este tipo de funciones es todos los numeros reales
+:math: `\mathbb{R}`
+
+.. math::
+	f( x ) = \sqrt[3]{ x - 8 } = Dom_f = \mathbb{R}
+
+.. math::
+	g( x ) = \frac{ 1 }{ \sqrt[3]{ x - 8 } } = Dom_g = \mathbb{R} - 8
+
+	\sqrt[3]{ x - 8 } \neq 0
+
+*********************************************************
+funciones radicales de orden par y raiz en el denimonador
+*********************************************************
+
+el radicando deberia ser mayor a cero resolver la inecuacion y la solucion
+conforma el dominio de la funcion
+
+.. math::
+	f ( x ) = \frac{ 3x }{ \sqrt{ 8 - x } } = Dom_f = ( -\infty, 8 )
+
+.. math::
+	g( x ) = ln( 9 - x ) \rightarrow Dom_g ( -\infty, 9 )
+
+	9 - x > 0
+
+	-x > -9
+
+	x < 9
+

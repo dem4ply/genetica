@@ -3,7 +3,7 @@ dominio de funciones matematicas
 ********************************
 
 funciones polinomicas 
-======================
+=====================
 
 el dominio de este tipo de funciones es :math: `\mathbb{R}` ( numeros reales )
 

@@ -1,0 +1,37 @@
+funciones
+=========
+
+.. math::
+	g( x ) = \frac{ x^3 + 3 } { x - 1 }
+
+:math: `x - 1` polinomio de primer grado :math: `\because` no se aplica formula general y no se factoriza
+
+.. math::
+	x - 1
+
+	x = 1 \because Dom_g = \mathbb{R}-{1}
+
+funciones radicales de orden par
+--------------------------------
+
+el radicando debera ser mayor o igual a cero, resolver la inecuacion y la
+solucion confoma el dominio de la funcion
+
+.. math::
+	f( x ) = \sqrt{ x - 8 }
+
+	x - 8 \geq 0
+
+	x \geq 8 \because Dom_f = [ 8, \infty )
+
+.. math::
+	h( x ) = \sqrt{ x^2 - 6x + 8 }
+
+	x^2 - 6x + 8 = 0 = ( x - 4 )( x - 2 )
+
+	x - 4 \geq 0 = x \geq 4
+
+	x - 2 \geq 0 = x \geq 2
+ 
+	h( x ) = \sqrt{ x^2 - 6x + 8 }
+	\rightarrow Dom_h = ( -\infty, 2 ],[ 4, \infty )

@@ -1,0 +1,64 @@
+nomemclatura de alcanos
+=======================
+
+prefijo - localizador - cadena principal - sufijo
+
+prefijo:
+	especifica la localizacion y la idenificacion de varios grupos sustituyentes en la molecula
+
+localizador:
+	indica la localizacion del grupo funcional
+
+cadena principal:
+	pass
+
+sufijo:
+	pass
+
+reglas iupac para nombrar alcanos de cedana ramificada
+
+paso 1 encuentre el hidrocarburo principal:
+	a. encuentra la cadena continua mas larga de atomos de carbono en la molecula y
+	utilice el nomr de esa cadena como nombre de cadena principal.
+	b. si estan presentes 2 cadenas diferentes de igual longitud, eliga como cadena
+	principal la que tenga el mayor numero de pintos de ramificacion
+
+paso 2 numero los atomos en la cadena principal:
+	a. empiece en el extremo mas cercano al primer punto de ramificacion, numere cada atomo de carbono
+
+paso 3 ideintifique y numere los susituyentes:
+	a. asigne un numero llamado localizador a cada uno de los sustituyentes para
+	localizar su punto de conexion con la cadena principal
+	b. si hay dos sustituyentes en el mismo carbono asigne a ambos el mismo numero debe haber tantos numeros en el nombre como haya sustituyentes
+
+paso 4 escriba el nombre como una sola palabra:
+	utilice uiones para separa diferents prefijos y utilice comas para separar
+	los numeros. si estan presentes dos o mas sustituyentes identicos, utilice uo
+	del os multiplicadores di, tri, tetra y asi sucesivamente pero no utice los
+	prefijos para ordenar alfabeticamente
+
+paso 5 nombre un sustituyente complejo cmo si fuera un compuesto por si mismo
+	es nesesario un quinto paso para algunos casos particularmente complejos
+	ocacionamente sucede que un sustituyente en la cadena rncipal tiene
+	subramificaciones
+
+
+    CH2-CH3        CH3
+    |              |
+CH3-CH-CH2-CH2-CH2-CH-CH3
+
+octano
+2-metil
+6-metil
+
+2,6 dimetiloctano
+
+
+
+3-isopropil-2-metalhexano
+
+    CH3
+    |
+CH3-CH-CH-CH2-CH2-CH2-CH3
+       |
+    CH-CH-CH3

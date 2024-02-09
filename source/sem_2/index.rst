@@ -12,7 +12,7 @@ sem 2
    :caption: Contents:
 
    calculo/index
-   quimica_organica/index
+   fisica/index
 
 Indices and tables
 ==================

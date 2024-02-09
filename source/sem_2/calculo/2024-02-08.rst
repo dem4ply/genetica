@@ -1,0 +1,73 @@
+********
+graficar
+********
+
+funciones lineales
+==================
+
+.. math::
+	f( x ) = mx + b
+
+m = pendiente
+
+x = variable independiente
+
+b = intercepto
+
+.. math::
+	m = \frac{ y_2 - y1 }{ x_2 - x1 }
+
+
+.. math::
+	f( x ) = 3x + 2
+
+	Dom_f = \mathbb{R}
+
+	Rango = \mathbb{R}
+
+.. csv-table:: tabla
+   :header: "x", "f( x )"
+   :widths: 3, 10
+
+	-3, -7
+	-2, -4
+	-1, -1
+	0, 2
+	1, 5
+	2, 8
+	3, 11
+
+.. plot:: sem_2/calculo/plots/3x_2.py
+	:include-source:
+
+.. plot:: sem_2/calculo/plots/test.py
+	:include-source:
+
+funciones cuadraticas
+=====================
+
+.. math::
+	f( x ) = ax^2 + bx + c
+
+a, b y c son constantes
+a != 0
+
+.. math::
+	f( x ) = 2x^2 + 3x + 1
+
+	Dom_f = \mathbb{R}
+
+	Rango = \mathbb{R}
+
+.. csv-table:: tabla
+   :header: "x", "f( x )"
+   :widths: 3, 10
+
+	-2 , -13
+	-1 , -4
+	0 , 1
+	1 , 2
+	2 , -1
+
+.. plot:: sem_2/calculo/plots/cuadratica.py
+	:include-source:

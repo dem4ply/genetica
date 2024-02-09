@@ -1,0 +1,24 @@
+trabajo con angulo
+==================
+
+.. math::
+	trabajo = f_x X
+
+	trabajo = (Fcos\alpha)x
+
+	trabajo = (70N) Cos60^\circ (12m) = 420J
+
+	sen\alpha = \frac{Ca} {HIPO}
+
+	sen\alpha = \frac{Fy} {F}
+
+	cos\alpha = \frac{Fx} {F}
+
+	W = F_x X
+
+	w = F Cos\alpha X
+
+	w = F X Cos\alpha
+
+
+una fuerza de 40N jala un loque de 4Kg una distancia horizontal de 8m

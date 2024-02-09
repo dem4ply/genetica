@@ -1,5 +1,5 @@
 *******
-calculo
+quimica
 *******
 
 .. toctree::
@@ -7,3 +7,5 @@ calculo
    :caption: Contents:
 
    2024-02-02
+   grupo_alquilo
+   2024-02-06

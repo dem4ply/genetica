@@ -11,3 +11,5 @@ compuestos mayores
 cambiar el subfijo de `-ano` a `-ilo`
 
 prefijos de `-sec` para secundarios, `-ter` para terciario
+
+
