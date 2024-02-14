@@ -23,11 +23,19 @@ extensions = [
     'sphinx.ext.coverage',
     'sphinx.ext.imgmath',
     'sphinx.ext.ifconfig',
+    #'sphinx.ext.inheritance_diagram',
     #'sphinx.ext.mathbase',
     #'sphinxcontrib.jsmath',
     # 'sphinxcontrib.httpdomain',
     'sphinxcontrib.plantuml',
     'rst2pdf.pdfbuilder',
+
+    #'numpydoc',
+    #'sphinx.ext.mathjax',
+    #'matplotlib.sphinxext.only_directives',
+    'matplotlib.sphinxext.plot_directive',
+    #'IPython.sphinxext.ipython_directive',
+    #'IPython.sphinxext.ipython_console_highlighting',
 ]
 
 templates_path = ['_templates']

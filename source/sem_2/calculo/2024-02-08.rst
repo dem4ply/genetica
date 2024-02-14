@@ -38,10 +38,8 @@ b = intercepto
 	3, 11
 
 .. plot:: sem_2/calculo/plots/3x_2.py
-	:include-source:
 
 .. plot:: sem_2/calculo/plots/test.py
-	:include-source:
 
 funciones cuadraticas
 =====================
@@ -70,4 +68,3 @@ a != 0
 	2 , -1
 
 .. plot:: sem_2/calculo/plots/cuadratica.py
-	:include-source:
