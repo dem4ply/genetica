@@ -1,0 +1,61 @@
+******
+nucleo
+******
+
+estructur esferica rodeada por una membrana nuclear doble, contine nucleolos y
+coromosomas
+
+se encuentra inmerso en el citoplasma su tamaño guarda relacion con el volumen
+citoplasmatico es esferico y mide alrededor de 5 micrometros de diametro
+
+la funcion del nucleo es mantener la integridad de los genes y controlar las
+actividades celulares regulando la expresion genetica
+
+membrana externa:
+	es continua con el reticulo endoplasmatico y como este puede estar
+	cubierta de ribosamas
+membrana interna:
+	tiene aspecto liso
+
+el espacio que las separa recib el nombre espacio perinuclear
+
+tiene poros que cruzan la doble memrana estructuras en forma de flor
+costituidas por ocho secciones a manera de petalos, los poros forman un canal
+que permite el inetrcambio de sustancias entre el nucleo y el citoplasma
+
+lamina nuclear
+==============
+
+esta formada por lamininas ( micro filamentos intermedios)
+
+soporte de nucleo
+
+la mmebrana externa es continua y esta unida al reticulo endoplasmatico rugoso
+y contine ribosomas
+
+los poros estan confomador por 8 granulos organizados alrededor de un granulo
+central
+
+esta formado por mas de 50 proteinas diferentes `nucleoporinas` lsa cuales
+estan acomodades en una estructura de simetria octagonal
+
+nucleoproteinas
+===============
+
+histonas:
+	grupo altamante conservado como funcion prinpalmente estructural. se han
+	descrito 5 clases de histonas: H1, H2A, H2B, H3
+
+no histonas:
+	grupo heerogeneo, dentro de ellas se encuentran enzimas
+
+cromatina - cromosomas
+======================
+
+el dna reside en le nucleo en forma de cromosomas que son visibles durante la
+division celular
+
+durante la fase de reposo los cromosomas se encuentran desenrollados en forma
+cromatina
+
+

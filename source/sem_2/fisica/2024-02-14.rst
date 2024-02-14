@@ -1,0 +1,65 @@
+resorte
+=======
+
+comprimir o stirar un resorte inicialmente en reposo:
+	dos fuerzas simepre stan presentesla fuerza externa :math: `F_ext` 
+
+una masa de 4kg suspendida de un resorte produce un desplazamiento de 20cm cual
+es la constante del resorte
+
+desplazamiento:
+	.. math::
+		F = masa
+
+		W = F_x X
+
+		F = -K X \rightarrow k = \frac { \Delta F } { \Delta X }
+
+resorte:
+	.. math::
+		W = 1/2 K X^2
+
+.. math::
+	m = 4kg
+
+	d = 20cm
+
+	k = \frac { \Delta F } { \Delta X }
+
+	= \frac { m g } { 0.2m }
+
+	= \frac { 4kg } { 9.81 {m/s^2} }
+
+	= 196.2 {N/m}
+
+.. math::
+	W = F_x x = m g x
+	= 4kg 9.81m/s^2 0.2m = 7.848J
+	= 1/2 7.848J = 3.924
+
+	W_resorte = 1/2 K x^2
+	3.924J = 1/2 K x^2
+	= k = \frac{ 2 ( 3.924 ) } { X^2 } = \frac{ 2 ( 3.924 ) } { 0.2m } = 196 N/m
+
+
+ejemplo 5
+---------
+
+que trabajo se requiere para estirar este resorete ( 196 N/m ) de x = 0 a x = 30cm
+
+.. math::
+	= 1/2 k x^2
+	= 1/2 ( 196 N/m ) 0.3m
+	= 8.82J
+
+caso general para resortes
+==========================
+
+si el desplazamiento inicial no es cero, el trabajo realizado esta dado por
+
+.. math::
+	trabajo = ( 1/2 k x_2^2 ) - ( 1/2 k x_1^2 )
+
+	trabajo = 1/2 k ( x_2^2 - x_1^2 )
+
+	trabajo = 1/2 k \Delta x^2
