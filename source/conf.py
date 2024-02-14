@@ -43,7 +43,11 @@ html_static_path = ['_static']
 
 # inside conf.py
 latex_engine = 'xelatex'
-imgmath_latex_preamble=r'\usepackage{mhchem}'
+imgmath_latex_preamble=r'''
+\usepackage{mhchem}
+\usepackage{siunitx}
+\usepackage{chemfig}
+'''
 imgmath_image_format='svg'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
@@ -60,7 +64,7 @@ latex_elements = {
 \renewcommand{\baselinestretch}{0.8}
 
 \usepackage[titles]{tocloft}
-\usepackage[version=4]{mhchem}
+\usepackage{mhchem}
 \usepackage{siunitx}
 \usepackage{chemfig}
 

@@ -9,3 +9,4 @@ quimica
    2024-02-02
    grupo_alquilo
    2024-02-06
+   t.1
