@@ -14,6 +14,7 @@ sem 2
    calculo/index
    fisica/index
    quimica_organica/index
+   estadistica/index
 
 Indices and tables
 ==================
