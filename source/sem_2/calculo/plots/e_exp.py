@@ -1,16 +1,17 @@
+import math
 import itertools
 import matplotlib.pyplot  as plt
 
-r = range( -2, 3 )
+r = range( -3, 4 )
 
 def values():
     for x in r:
         q = x, f( x )
-        print( q[0], ',', q[1] )
+        print( f"{q[0]},", f"{q[1]:.4f}" )
         yield q
 
 def f( x ):
-    return ( -2 * x * x ) + ( 3 * x ) + 1
+    return math.exp( x )
 
 X, Y = map( list, itertools.zip_longest( *list( values() ) ) )
 

@@ -1,0 +1,124 @@
+**************
+funcion cubica
+**************
+
+.. math::
+	ax^3 + bx^2 + cx + d
+
+donde a, b, c y d son constantes; :math: `a \neq 0`
+
+.. math::
+	f(x) = x^3 
+
+	Dom_x = \mathbb{R}
+
+	Rango = \mathbb{R}
+
+.. csv-table:: tabla
+   :header: "x", "f( x )"
+   :widths: 3, 10
+
+	-3, -27
+	-2, -8
+	-1, -1
+	0, 0
+	1, 1
+	2, 8
+	3, 27
+
+.. plot:: sem_2/calculo/plots/cubica.py
+
+.. math::
+	f(x) = x^3 + 1
+
+	x^3 + 1 = 0
+	\rightarrow x^3 = -1
+	\rightarrow x = \sqrt[3]{-1}
+	\rightarrow x = -1
+
+	Dom_x = \mathbb{R}
+
+	Rango = \mathbb{R}
+
+.. plot:: sem_2/calculo/plots/cubica+1.py
+
+***********************
+funciones trancendentes
+***********************
+
+funciones exponenciales
+=======================
+
+exponencial de base e
+---------------------
+
+donde es a base de la funcion exponencial y ademas es el numero de euler
+
+.. math::
+	f(x) = e^x
+
+	Dom_x = \mathbb{R}
+
+	rango = ( 0, \infty )
+
+.. csv-table:: tabla
+   :header: "x", "f( x )"
+   :widths: 3, 10
+
+	-3, 0.0498
+	-2, 0.1353
+	-1, 0.3679
+	0, 1.0000
+	1, 2.7183
+	2, 7.3891
+	3, 20.0855
+
+.. plot:: sem_2/calculo/plots/e_exp.py
+
+.. math::
+	f(x) = e^-x
+
+	Dom_x = \mathbb{R}
+
+	rango = ( 0, \infty )
+
+.. csv-table:: tabla
+   :header: "x", "f( x )"
+   :widths: 3, 10
+
+	-3, 20.0855
+	-2, 7.3891
+	-1, 2.7183
+	0, 1.0000
+	1, 0.3679
+	2, 0.1353
+	3, 0.0498
+
+.. plot:: sem_2/calculo/plots/e-exp.py
+
+exponencial de base a
+---------------------
+
+donde a es una contante diferente de cero y x es el exponente y la variable
+independiente
+
+.. math::
+	f(x) = a^x
+
+	Dom_x = \mathbb{R}
+
+	rango = ( 0, \infty )
+
+.. csv-table:: tabla
+   :header: "x", "f( x )"
+   :widths: 3, 10
+
+	-3, 0.1250
+	-2, 0.2500
+	-1, 0.5000
+	0, 1.0000
+	1, 2.0000
+	2, 4.0000
+	3, 8.0000
+
+.. plot:: sem_2/calculo/plots/2_power_x.py

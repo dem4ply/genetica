@@ -7,6 +7,10 @@ comprimir o stirar un resorte inicialmente en reposo:
 una masa de 4kg suspendida de un resorte produce un desplazamiento de 20cm cual
 es la constante del resorte
 
+ley de hooke:
+	.. math::
+		F = -k x
+
 desplazamiento:
 	.. math::
 		F = masa
