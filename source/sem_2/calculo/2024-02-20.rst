@@ -1,0 +1,28 @@
+*********************
+simetria de funciones
+*********************
+
+funcion par
+===========
+
+.. math::
+	f(-x) == f(x)
+
+.. math::
+	f(x) = x^2
+
+.. plot:: sem_2/calculo/plots/simetria.py
+
+funcion inpar
+=============
+
+.. math::
+	f(x) = x^3
+
+.. plot:: sem_2/calculo/plots/impar_simetria.py
+
+.. math::
+	\begin{cases}
+		f(x), &\text{if} \\
+		0,    &\text{cosa}
+	\end{cases}

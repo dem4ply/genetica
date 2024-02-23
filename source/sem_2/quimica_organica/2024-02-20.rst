@@ -1,0 +1,81 @@
+************
+cicloalcanos
+************
+
+son alcano que contienne anillos de atomos de carbono
+
+los cocloalcanos simples se nombran como los alcanos aciclicos con prefijo
+cliclo para indicar la presencia de un anillo
+
+formula molecular general:
+	CnH2n
+
+propiedades fisicas:
+	son compuestos no polares rleativamente inertes
+	os cicloalcanos se mantinene en una forma compacta
+
+clicloprpano	punto de ebullicion	punto de fusion
+clicbutano
+clicpentano
+
+nomenclatura
+============
+
+los cicloalcanos sistituidos utilizan al cicloalcano como nombre base,, con
+los grupos alquilo nombrados como sustituyetes
+
+si solo hay un sustituyente no se necesita numeracion alguna
+
+dos o mas sustituentes en el anillo
+-----------------------------------
+
+se numeran los caronos del anillo para dar los numeros mas bajos posibles para
+carbonos sustituidos
+
+la numeracion se realiza en la direcion que da los numeros mas bajos posibles
+
+en el nombre los sustituentes se colocan en orden alabetico
+
+
+cuando la parte acicica de la molecula contenga mas atomos de carbno uque la
+parte ciclica laparte ciclica se nombra en algunos ocaciones como sustituyente
+cicloalquillo
+
+*************
+problema 3.14
+*************
+
+de los nombres IUAC para los siguientes compuestos
+
+SecButil-3,3-dimetil
+
+ciclopentano
+
+.. math::
+	\chemfig{*5(-(-[7]CH_3)(-[1]CH_3)--(-CH(-[4]CH_2)-[0]CH_2CH_3)--)}
+
+
+ciclopropil-3,3-dimetil
+cilohexano
+
+triangle-hex-CH_3^2
+
+.. math::
+	\chemfig{*6(-(-*3(---))--(-[7]CH_3)(-[1]CH_3)---)}
+
+.. math::
+	\chemfig{--(-[6]*4(----))------}
+
+
+*************
+problema 3.15
+*************
+
+dibuje la estuctura y la formula molecular de cada uno de los siguientes compuestos
+
+a. 1-etil-3.metilclicloheptano
+b. isobutilciclohexano
+c. ciclopropilciclopentano
+d. 3-etil-1,1-dimetilciclohexano
+e. 3-etil-2,4-dimetilhexano
+f. 1,1-dietil-4-(3,3-dimetilbutil)ciclohexano

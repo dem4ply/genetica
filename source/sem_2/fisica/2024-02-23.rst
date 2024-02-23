@@ -1,0 +1,54 @@
+**********
+ejercicios
+**********
+
+
+1. cual es la energia cinetica de un automovil de 2400lb cuando circula a una
+rapidez de 55 mi/h
+
+.. math::
+	E_c = ( mv^2 ) / 2
+
+	m = 2400 = 1089.6000000000001
+
+	v = 55 = 24.585
+
+	\frac{ ( 1089.6000000000001 ) ( 24.585^2 ) }{ 2 } = 329289.22818000003 J
+
+2. cual es la energia cinetica de una pelota de 9 lb cuando su
+rapidez es de 40 ft/s
+
+.. math::
+	E_c = ( mv^2 ) / 2
+
+	m = 9lb = 4.086kg
+
+	v = 40 ft/s = 12.2 m/s
+
+	\frac{ ( 4.086 ) 12.2^2 } { 2 } = 304.08011999999997
+
+respuesta: 244000 ft/lb 
+
+millas a metros 0.447 m/s
+
+lbras 0.454 kg
+
+pies por segundo a m/s 0.305
+
+2. una carreta de 400kg entra sin control en un campo de maiz a una velocidad de
+12 m/s y finanalmente se detiene cual fue la magnitud des trabajo realizado por
+esa carreta
+
+.. math::
+	W = f d
+	E_c = ( mv^2 ) / 2
+
+	m = 400kg 
+
+	v = 12 m/s
+
+	\frac{ ( 4.086 ) 12.2^2 } { 2 } = 608.1602399999999
+
+
+3. que fuerza media se nesesita pata incrementar la velocidad de un objeto de 2kg
+de 5m/s a 12m/s en una distancia de 8m
