@@ -40,15 +40,36 @@ pies por segundo a m/s 0.305
 esa carreta
 
 .. math::
-	W = f d
-	E_c = ( mv^2 ) / 2
-
 	m = 400kg 
 
-	v = 12 m/s
+	v_i = 12 m/s
 
-	\frac{ ( 4.086 ) 12.2^2 } { 2 } = 608.1602399999999
+	v_f = 0 m/s
 
+	E_c = 0.5 ( 400kg ) ( 0^2 - 12^2 )
+
+	E_c = -28800.0J = 28.8kJ
 
 3. que fuerza media se nesesita pata incrementar la velocidad de un objeto de 2kg
 de 5m/s a 12m/s en una distancia de 8m
+
+.. math::
+	W = f d
+
+	m = 2kg
+
+	v_i = 5 m/s
+
+	v_f = 12 m/s
+
+	x = 8m
+
+	E_c = 0.5 ( 400kg ) ( 5^2 - 12^2 )
+
+	E_c = 119J
+
+	W = E_c / x
+
+	W = 119J / 8m
+
+	W = 14.875N

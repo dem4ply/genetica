@@ -69,7 +69,7 @@ ax.plot( X, Y )
 ax.plot([-3, 0], [f(-3), f(-3)], c='green', ls='--', lw=1.5, alpha=0.5)
 ax.plot([0, 3], [f(3), f(3)], c='green', ls='--', lw=1.5, alpha=0.5)
 #vertical
-ax.plot([-3, -3], [0, f(-3)], c='grenn', ls='--', lw=1.5, alpha=0.5)
+ax.plot([-3, -3], [0, f(-3)], c='green', ls='--', lw=1.5, alpha=0.5)
 ax.plot([3, 3], [0, f(3)], c='green', ls='--', lw=1.5, alpha=0.5)
 
 ax.scatter( X, Y, )
