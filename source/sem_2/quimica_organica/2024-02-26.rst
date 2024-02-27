@@ -1,0 +1,35 @@
+****
+algo
+****
+
+.. math::
+	\chemfig{*6(--(-[7]CH_3)---(-[3]CH_3)-)}
+
+1,4 dimetilciclohexano
+
+.. math::
+	\chemfig{*6(--(-[7]CH(-[5]CH_3)-CH_3)-(-[1]CH_3)---)}
+
+1-isopropil-2-metilcoclohexano
+
+.. math::
+	\chemfig{*6(------)}
+
+1-cromo-4etilciclodecano
+
+.. math::
+	\chemfig{*7(-(-[6]Br)--(-[1]CH_3)-(-[2]CH_3)---)}
+
+4-bromo-1-terbutil-2-metilcicloheptano
+
+.. math::
+	\chemfig{*5(-(-[7]CH_3)(-[6]CH_3)--(-CH_2-CH_3)--)}
+
+e-etil-1,1,-dimetilciclopentano
+
+
+
+.. math::
+	\chemfig{*6(-(<[5]Br)(>:[7]H)--(<[2]H)(>:[7]CH_3)---)}
+
+trans-1-Bromo-3-metilciclohexano

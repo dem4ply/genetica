@@ -1,0 +1,43 @@
+*****************
+funciones inversa
+*****************
+
+dadas :math: `f( x ) = 3x + 2` y :math: `g( x ) = \frac{ x + 3 } { 2x + 1 }`
+encontrar :math: `f * g`
+
+.. math::
+	f( x ) = 3x + 2
+
+	g( x ) = \frac{ x + 3 } { 2x + 1 }
+
+	g * f = f[ g(x) ] = 3( \frac { x + 3 } { 2x + 1 } ) + 2
+
+	= ( \frac { 3x + 9 } { 2x + 1 } ) + 2
+
+	= ( \frac { 3x + 9 + 4x + 2 } { 2x + 1 } )
+	= ( \frac { 7x + 11 } { 2x + 1 } )
+
+	g * f = f[ g(x) ] = ( \frac { ( 3x + 2 ) + 3 } { 2( 3x + 2 ) + 1 } )
+	= ( \frac { 3x + 5 } { 6x + 5 } )
+
+.. math::
+	\text{Si} f(a) = b \rightarrow f^-1(b) = a
+
+	f( x ) = 2x
+
+	y = 2x = \frac{ y } { 2 } = x
+
+	y = \frac { x } { 2 }
+
+	f^-1( x ) = \frac{ x } { 2 }
+
+.. math::
+	g( x ) = \sqrt[3]{ x - 1 }
+
+	y = \sqrt[3]{ x - 1 }
+
+	y^3 = x - 1
+
+	y^3 + 1 = x
+
+	g^-1( x ) = x^3 + 1
