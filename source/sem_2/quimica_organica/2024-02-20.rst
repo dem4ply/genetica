@@ -52,19 +52,17 @@ SecButil-3,3-dimetil
 ciclopentano
 
 .. math::
-	\chemfig{*5(-(-[7]CH_3)(-[1]CH_3)--(-CH(-[4]CH_2)-[0]CH_2CH_3)--)}
+	\chemfig{*5(-(-[6]CH_3)(-[0]CH_3)--(-CH(-[4]CH_2)-[0]CH_2CH_3)--)}
 
 
 ciclopropil-3,3-dimetil
 cilohexano
 
-triangle-hex-CH_3^2
-
 .. math::
 	\chemfig{*6(-(-*3(---))--(-[7]CH_3)(-[1]CH_3)---)}
 
 .. math::
-	\chemfig{--(-[6]*4(----))------}
+	\chemfig{-[1]-[7](-[6]*4(----))-[1]-[7]-[1]-[7]-[1]-[7]}
 
 
 *************
