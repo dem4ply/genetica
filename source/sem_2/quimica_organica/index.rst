@@ -10,4 +10,5 @@ quimica
    grupo_alquilo
    2024-02-06
    t.1
+   t.2
    2024-02-20
