@@ -1,0 +1,39 @@
+@startuml
+
+skinparam linetype ortho
+start
+
+:agregar 10mL de agua al matraz de quickfit;
+:agregar 5mL de acido sulfurico concentrado al matraz quickfit;
+
+:enfriar el matraz en un baño de hielo;
+
+:enfriando y agitnado agregar 10mL de alcohol ter-butilico;
+
+:colocar el matraz en baño maria, sujetandolo con un soporte;
+
+:conectar refrigerante eficiente dispuesto para destilacion;
+
+:empalmar un tubo de desprendimiento;
+
+:recojer sobre agua el 2-meilpropeno que se forme;
+
+:caliente el matraz de destilacion con el baño maria;
+
+:recoger el producto de la destialacion en 3 tubos con 2-metilpropeno;
+
+:tapar los tubos;
+
+fork
+	:prueba de combustibilidad;
+	:en la boca de un tubo se aplica la flama de un cerillo;
+	:observe la combustion;
+fork again
+	:ensayo de baeyer para la insaturacion;
+	:en un tubo se añade 2mL de disolucion de permanganato de potasio al 0.3%;
+	:agite el tubo;
+end merge
+
+end
+
+@enduml
